@@ -1,0 +1,15 @@
+{
+  "domain": "hello_state",
+  "name": "load_management",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/hello_state",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@klacol"
+  ],
+  "iot_class": "assumed_state"
+}
